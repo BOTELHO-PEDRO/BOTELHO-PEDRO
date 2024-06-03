@@ -21,9 +21,10 @@
 
 - 🧠 I'm an AI Research Scientist
 - 📝 Passionate about Mathematics
-- 🎓 I'm an undergraduate in Electronic Engineering at the Aeronautics Institute of Technology (ITA)
+- 🎓 I have a degree in Electronic Engineering from the Technological Institute of Aeronautics (ITA)
 - 🚀 I'm a Brazilian Air Force military and engineering
-- 🤖 I'm working at the AI Center of Excellence (CEIA), NVIDIA's official partner
-- 📖 I'm currently studying Diffusion Models, LLMs, and Reinforcement Learning
+- 🤖 I'm a Research Assistant at Northwestern University
+- 👨‍💻 I'm a Research Scientist at the AI Center of Excellence (CEIA)
+- 📖 I'm currently studying Multi-Agent Reinforcement Learning in Dynamic Spectrum Access, but also studying Diffusion Models, LLMs, and Deep Reinforcement Learning.
  
  ![Snake animation](https://github.com/BOTELHO-PEDRO/BOTELHO-PEDRO/blob/main/github-contribution-grid-snake-dark.svg)
