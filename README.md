@@ -22,7 +22,7 @@
 - 🧠 I'm an AI Research Scientist
 - 📝 Passionate about Mathematics
 - 🎓 I have a degree in Electronic Engineering from the Technological Institute of Aeronautics (ITA)
-- 🚀 I'm a Brazilian Air Force military and engineering
+- 🚀 I'm a Brazilian Air Force military and engineer
 - 🤖 I'm a Research Assistant at Northwestern University
 - 👨‍💻 I'm a Research Scientist at the AI Center of Excellence (CEIA)
 - 📖 I'm currently studying Multi-Agent Reinforcement Learning in Dynamic Spectrum Access, but also studying Diffusion Models, LLMs, and Deep Reinforcement Learning.
